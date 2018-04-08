@@ -1,2 +1,2 @@
 # pyneng
-Python for network engineers - test code
+Упражнения к книге "Python для сетевых инженеров"
